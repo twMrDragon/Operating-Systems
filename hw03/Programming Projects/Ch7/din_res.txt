@@ -1,0 +1,321 @@
+Philosopher 0 is thinking.
+
+Current status:
+Philosopher 0: THINKING 🤔 
+Philosopher 1: THINKING 🤔 
+Philosopher 2: THINKING 🤔 
+Philosopher 3: THINKING 🤔 
+Philosopher 4: THINKING 🤔 
+
+Philosopher 3 is thinking.
+
+Current status:
+Philosopher 0: THINKING 🤔 
+Philosopher 1: THINKING 🤔 
+Philosopher 2: THINKING 🤔 
+Philosopher 3: THINKING 🤔 
+Philosopher 4: THINKING 🤔 
+
+Philosopher 2 is thinking.
+
+Current status:
+Philosopher 0: THINKING 🤔 
+Philosopher 1: THINKING 🤔 
+Philosopher 2: THINKING 🤔 
+Philosopher 3: THINKING 🤔 
+Philosopher 4: THINKING 🤔 
+
+Philosopher 4 is thinking.
+
+Current status:
+Philosopher 0: THINKING 🤔 
+Philosopher 1: THINKING 🤔 
+Philosopher 2: THINKING 🤔 
+Philosopher 3: THINKING 🤔 
+Philosopher 4: THINKING 🤔 
+
+Philosopher 1 is thinking.
+
+Current status:
+Philosopher 0: THINKING 🤔 
+Philosopher 1: THINKING 🤔 
+Philosopher 2: THINKING 🤔 
+Philosopher 3: THINKING 🤔 
+Philosopher 4: THINKING 🤔 
+
+Philosopher 1 is hungry and trying to get forks.
+Philosopher 1 is eating.
+
+Current status:
+Philosopher 0: THINKING 🤔 
+Philosopher 1: EATING   🍽️ 
+Philosopher 2: THINKING 🤔 
+Philosopher 3: THINKING 🤔 
+Philosopher 4: THINKING 🤔 
+
+Philosopher 2 is hungry and trying to get forks.
+Philosopher 1 puts down forks.
+Philosopher 1 has finished 1 meal(s).
+Philosopher 1 is thinking.
+
+Current status:
+Philosopher 0: THINKING 🤔 
+Philosopher 1: THINKING 🤔 
+Philosopher 2: EATING   🍽️ 
+Philosopher 3: THINKING 🤔 
+Philosopher 4: THINKING 🤔 
+
+Philosopher 2 is eating.
+
+Current status:
+Philosopher 0: THINKING 🤔 
+Philosopher 1: THINKING 🤔 
+Philosopher 2: EATING   🍽️ 
+Philosopher 3: THINKING 🤔 
+Philosopher 4: THINKING 🤔 
+
+Philosopher 0 is hungry and trying to get forks.
+Philosopher 0 is eating.
+
+Current status:
+Philosopher 0: EATING   🍽️ 
+Philosopher 1: THINKING 🤔 
+Philosopher 2: EATING   🍽️ 
+Philosopher 3: THINKING 🤔 
+Philosopher 4: THINKING 🤔 
+
+Philosopher 4 is hungry and trying to get forks.
+Philosopher 3 is hungry and trying to get forks.
+Philosopher 1 is hungry and trying to get forks.
+Philosopher 2 puts down forks.
+Philosopher 2 has finished 1 meal(s).
+Philosopher 2 is thinking.
+
+Current status:
+Philosopher 0: EATING   🍽️ 
+Philosopher 1: HUNGRY   🙏 
+Philosopher 2: THINKING 🤔 
+Philosopher 3: EATING   🍽️ 
+Philosopher 4: HUNGRY   🙏 
+
+Philosopher 3 is eating.
+
+Current status:
+Philosopher 0: EATING   🍽️ 
+Philosopher 1: HUNGRY   🙏 
+Philosopher 2: THINKING 🤔 
+Philosopher 3: EATING   🍽️ 
+Philosopher 4: HUNGRY   🙏 
+
+Philosopher 0 puts down forks.
+Philosopher 0 has finished 1 meal(s).
+Philosopher 0 is thinking.
+
+Current status:
+Philosopher 0: THINKING 🤔 
+Philosopher 1: EATING   🍽️ 
+Philosopher 2: THINKING 🤔 
+Philosopher 3: EATING   🍽️ 
+Philosopher 4: HUNGRY   🙏 
+
+Philosopher 1 is eating.
+
+Current status:
+Philosopher 0: THINKING 🤔 
+Philosopher 1: EATING   🍽️ 
+Philosopher 2: THINKING 🤔 
+Philosopher 3: EATING   🍽️ 
+Philosopher 4: HUNGRY   🙏 
+
+Philosopher 3 puts down forks.
+Philosopher 3 has finished 1 meal(s).
+Philosopher 3 is thinking.
+
+Current status:
+Philosopher 0: THINKING 🤔 
+Philosopher 1: EATING   🍽️ 
+Philosopher 2: THINKING 🤔 
+Philosopher 3: THINKING 🤔 
+Philosopher 4: EATING   🍽️ 
+
+Philosopher 4 is eating.
+
+Current status:
+Philosopher 0: THINKING 🤔 
+Philosopher 1: EATING   🍽️ 
+Philosopher 2: THINKING 🤔 
+Philosopher 3: THINKING 🤔 
+Philosopher 4: EATING   🍽️ 
+
+Philosopher 1 puts down forks.
+Philosopher 1 has finished 2 meal(s).
+Philosopher 1 is thinking.
+
+Current status:
+Philosopher 0: THINKING 🤔 
+Philosopher 1: THINKING 🤔 
+Philosopher 2: THINKING 🤔 
+Philosopher 3: THINKING 🤔 
+Philosopher 4: EATING   🍽️ 
+
+Philosopher 2 is hungry and trying to get forks.
+Philosopher 2 is eating.
+
+Current status:
+Philosopher 0: THINKING 🤔 
+Philosopher 1: THINKING 🤔 
+Philosopher 2: EATING   🍽️ 
+Philosopher 3: THINKING 🤔 
+Philosopher 4: EATING   🍽️ 
+
+Philosopher 3 is hungry and trying to get forks.
+Philosopher 4 puts down forks.
+Philosopher 4 has finished 1 meal(s).
+Philosopher 4 is thinking.
+
+Current status:
+Philosopher 0: THINKING 🤔 
+Philosopher 1: THINKING 🤔 
+Philosopher 2: EATING   🍽️ 
+Philosopher 3: HUNGRY   🙏 
+Philosopher 4: THINKING 🤔 
+
+Philosopher 0 is hungry and trying to get forks.
+Philosopher 0 is eating.
+
+Current status:
+Philosopher 0: EATING   🍽️ 
+Philosopher 1: THINKING 🤔 
+Philosopher 2: EATING   🍽️ 
+Philosopher 3: HUNGRY   🙏 
+Philosopher 4: THINKING 🤔 
+
+Philosopher 2 puts down forks.
+Philosopher 2 has finished 2 meal(s).
+Philosopher 2 is thinking.
+
+Current status:
+Philosopher 0: EATING   🍽️ 
+Philosopher 1: THINKING 🤔 
+Philosopher 2: THINKING 🤔 
+Philosopher 3: EATING   🍽️ 
+Philosopher 4: THINKING 🤔 
+
+Philosopher 3 is eating.
+
+Current status:
+Philosopher 0: EATING   🍽️ 
+Philosopher 1: THINKING 🤔 
+Philosopher 2: THINKING 🤔 
+Philosopher 3: EATING   🍽️ 
+Philosopher 4: THINKING 🤔 
+
+Philosopher 4 is hungry and trying to get forks.
+Philosopher 0 puts down forks.
+Philosopher 0 has finished 2 meal(s).
+Philosopher 0 is thinking.
+
+Current status:
+Philosopher 0: THINKING 🤔 
+Philosopher 1: THINKING 🤔 
+Philosopher 2: THINKING 🤔 
+Philosopher 3: EATING   🍽️ 
+Philosopher 4: HUNGRY   🙏 
+
+Philosopher 1 is hungry and trying to get forks.
+Philosopher 1 is eating.
+
+Current status:
+Philosopher 0: THINKING 🤔 
+Philosopher 1: EATING   🍽️ 
+Philosopher 2: THINKING 🤔 
+Philosopher 3: EATING   🍽️ 
+Philosopher 4: HUNGRY   🙏 
+
+Philosopher 3 puts down forks.
+Philosopher 3 has finished 2 meal(s).
+Philosopher 3 is thinking.
+
+Current status:
+Philosopher 0: THINKING 🤔 
+Philosopher 1: EATING   🍽️ 
+Philosopher 2: THINKING 🤔 
+Philosopher 3: THINKING 🤔 
+Philosopher 4: EATING   🍽️ 
+
+Philosopher 4 is eating.
+
+Current status:
+Philosopher 0: THINKING 🤔 
+Philosopher 1: EATING   🍽️ 
+Philosopher 2: THINKING 🤔 
+Philosopher 3: THINKING 🤔 
+Philosopher 4: EATING   🍽️ 
+
+Philosopher 2 is hungry and trying to get forks.
+Philosopher 4 puts down forks.
+Philosopher 4 has finished 2 meal(s).
+Philosopher 4 is thinking.
+
+Current status:
+Philosopher 0: THINKING 🤔 
+Philosopher 1: EATING   🍽️ 
+Philosopher 2: HUNGRY   🙏 
+Philosopher 3: THINKING 🤔 
+Philosopher 4: THINKING 🤔 
+
+Philosopher 1 puts down forks.
+Philosopher 1 has finished 3 meal(s).
+Philosopher 1 is full and leaves the table.
+Philosopher 2 is eating.
+
+Current status:
+Philosopher 0: THINKING 🤔 
+Philosopher 1: THINKING 🤔 
+Philosopher 2: EATING   🍽️ 
+Philosopher 3: THINKING 🤔 
+Philosopher 4: THINKING 🤔 
+
+Philosopher 3 is hungry and trying to get forks.
+Philosopher 0 is hungry and trying to get forks.
+Philosopher 0 is eating.
+
+Current status:
+Philosopher 0: EATING   🍽️ 
+Philosopher 1: THINKING 🤔 
+Philosopher 2: EATING   🍽️ 
+Philosopher 3: HUNGRY   🙏 
+Philosopher 4: THINKING 🤔 
+
+Philosopher 4 is hungry and trying to get forks.
+Philosopher 0 puts down forks.
+Philosopher 0 has finished 3 meal(s).
+Philosopher 0 is full and leaves the table.
+Philosopher 4 is eating.
+
+Current status:
+Philosopher 0: THINKING 🤔 
+Philosopher 1: THINKING 🤔 
+Philosopher 2: EATING   🍽️ 
+Philosopher 3: HUNGRY   🙏 
+Philosopher 4: EATING   🍽️ 
+
+Philosopher 2 puts down forks.
+Philosopher 2 has finished 3 meal(s).
+Philosopher 2 is full and leaves the table.
+Philosopher 4 puts down forks.
+Philosopher 4 has finished 3 meal(s).
+Philosopher 4 is full and leaves the table.
+Philosopher 3 is eating.
+
+Current status:
+Philosopher 0: THINKING 🤔 
+Philosopher 1: THINKING 🤔 
+Philosopher 2: THINKING 🤔 
+Philosopher 3: EATING   🍽️ 
+Philosopher 4: THINKING 🤔 
+
+Philosopher 3 puts down forks.
+Philosopher 3 has finished 3 meal(s).
+Philosopher 3 is full and leaves the table.
+All philosophers have finished their meals. Program ends.
